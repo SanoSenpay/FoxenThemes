@@ -6,5 +6,37 @@
     "author": "SanoSenpay",
     "file": "themes/Silent_Peak.fptheme",
     "preview": "previews/silentpeakpreview.png"
+  },
+  {
+    "id": "gravitys_embrace",
+    "name": "Gravity's Embrace",
+    "desc": "Таинственная космическая эстетика",
+    "author": "SanoSenpay",
+    "file": "themes/Gravitys_Embrace.fptheme",
+    "preview": "previews/gravitys_embrace_preview.png"
+  },
+  {
+    "id": "midnight_bloom",
+    "name": "Midnight Bloom",
+    "desc": "Нежное полуночное цветение",
+    "author": "SanoSenpay",
+    "file": "themes/Midnight_Bloom.fptheme",
+    "preview": "previews/midnight_bloom_preview.png"
+  },
+  {
+    "id": "smile_of_the_abyss",
+    "name": "Smile of the Abyss",
+    "desc": "Притягательная тёмная атмосфера",
+    "author": "SanoSenpay",
+    "file": "themes/Smile_of_the_Abyss.fptheme",
+    "preview": "previews/Smile_of_the_Abyss_preview.png"
+  },
+  {
+    "id": "lone_lanterns_haven",
+    "name": "The Lone Lantern's Haven",
+    "desc": "Уютный свет во тьме",
+    "author": "SanoSenpay",
+    "file": "themes/The_Lone_Lanterns_Haven.fptheme",
+    "preview": "previews/the_lone_lanterns_haven_preview.png"
   }
 ]
